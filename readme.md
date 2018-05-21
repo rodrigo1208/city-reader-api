@@ -37,4 +37,4 @@ ordenadas por nome)
 
 ### Sistema
 
-É necessário executar o Mains e o servidor vai rodar na porta 4567.
+É necessário executar o Main e o servidor vai rodar na porta 4567.
