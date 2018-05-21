@@ -1,4 +1,4 @@
-# API para leitura e incersão de cidades
+# API para leitura e insersão de cidades
 
 ### Tecnologias
 
